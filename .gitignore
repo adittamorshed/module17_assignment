@@ -1,6 +1,6 @@
 venv/
 .env
-model/iris_model.joblib
 __pycache__/
 *.pyc
-app/__pycache__/
+app/__pycache__/remote: Permission to TAHMID37/fastap_masterclass.git denied to Tahmid-Delineate.
+fatal: unable to access 'https://github.com/TAHMID37/fastap_masterclass.git/': The requested URL returned error: 403
