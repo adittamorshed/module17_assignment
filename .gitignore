@@ -1,0 +1,6 @@
+venv/
+.env
+model/iris_model.joblib
+__pycache__/
+*.pyc
+app/__pycache__/
